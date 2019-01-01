@@ -1,6 +1,6 @@
 <nav class='navmenu' align="left">
 	  <ul>
-	  <li><a href="../agung">Home</a></li>
+	  <li><a href="../">Home</a></li>
 	  <li class='submenu'><a href="#">Profil</a>
 		<ul class='dropdown'>
 			<li><a href="visi.php">Visi Misi</a></li>
