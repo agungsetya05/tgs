@@ -129,7 +129,7 @@
 		},
 		{
 			nama: "Timur Elang",
-			kelas: "A11.2017.10654",
+			nim: "A11.2017.10654",
 		},
 	];
 
@@ -140,7 +140,7 @@
 	}
 
 
-
+	/* AJAX */
 	$(document).ready(function () {
 		$('.linkpindah').click(function (e) { 
 			e.preventDefault();
